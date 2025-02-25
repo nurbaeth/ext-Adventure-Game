@@ -16,7 +16,7 @@ Welcome to the Dungeon Adventure Game! This is a simple, text-based adventure ga
 5. The game ends when you reach the exit room.   
 
 ### Example Game Flow: 
-  
+   
  
 
 
