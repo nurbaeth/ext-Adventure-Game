@@ -6,7 +6,7 @@ Welcome to the Dungeon Adventure Game! This is a simple, text-based adventure ga
 - Move between rooms (north, south, east, west).
 - Pick up and use items found in the rooms.
 - Track your inventory and use items to solve challenges.
-- Simple text-based interface.
+- Simple text-based interface. 
 
 ## How to Play:
 1. The game starts in the **Entrance** room of the dungeon.
