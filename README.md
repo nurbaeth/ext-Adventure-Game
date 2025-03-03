@@ -15,7 +15,7 @@ Welcome to the Dungeon Adventure Game! This is a simple, text-based adventure ga
 4. Type `inventory` to see the items you currently hold. 
 5. The game ends when you reach the exit room.   
 
-### Example Game Flow:     
+### Example Game Flow:      
    
  
 
