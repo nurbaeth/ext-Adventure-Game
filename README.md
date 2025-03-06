@@ -13,7 +13,7 @@ Welcome to the Dungeon Adventure Game! This is a simple, text-based adventure ga
 2. You can move through rooms using commands like `go north`, `go south`, `go east`, or `go west`.
 3. You can take items from the room using the command `take [item]`.
 4. Type `inventory` to see the items you currently hold. 
-5. The game ends when you reach the exit room.   
+5. The game ends when you reach the exit room.    
 
 ### Example Game Flow:      
    
